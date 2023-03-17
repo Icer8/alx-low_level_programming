@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * Main - main block
- * Return: 0
+ * main - Prints a sentence using a put function
+ * Return: 0 (Success)
  */
 int main(void)
 {
